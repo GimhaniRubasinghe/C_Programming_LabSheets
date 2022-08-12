@@ -1,0 +1,6 @@
+StRe_no		St_Name		St_age
+PS/00/78	Nimal		23
+PS/00/80	Kamal		21
+PS/00/85	Amal		22
+PS/00/90	Binuri		22
+PS/00/96	Janani		21
